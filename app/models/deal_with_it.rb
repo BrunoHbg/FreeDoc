@@ -1,0 +1,2 @@
+class DealWithIt < ApplicationRecord
+end
